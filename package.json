@@ -1,0 +1,19 @@
+{
+  "name": "percobaan-syntax",
+  "main": "./atom/percobaan-syntax",
+  "theme": "ui",
+  "version": "1.1.1",
+  "description": "percobaan-syntax",
+  "keywords": [
+
+    "percobaan-syntax"
+  ],
+  "activationCommands": {
+    "atom-workspace": "percobaan-syntax:toggle"
+  },
+  "repository": "https://github.com/hningswara/percobaan-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
