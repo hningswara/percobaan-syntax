@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "percobaan-syntax:toggle"
   },
-  "repository": "https://github.com/hningswara/percobaan-syntax",
+  "repository": "https://github.com/hningswara/percobaan-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
